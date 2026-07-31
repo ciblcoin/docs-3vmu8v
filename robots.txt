@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-46gpda.haybaleman.co.nz/sitemap.xml
